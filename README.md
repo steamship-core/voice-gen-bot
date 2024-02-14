@@ -53,4 +53,4 @@ Just change the package handle in steamship.json and you can deploy a different 
 
 More info here: https://docs.steamship.com/packages/developing/index.html
 
-Join our discord here: https://steamship.com/discord
+Email us!  support [at] steamship [dot] com.
